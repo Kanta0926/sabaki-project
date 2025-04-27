@@ -1,0 +1,4 @@
+# ファイルを無視
+tsconfig.node.json
+vite.config.ts
+vitest.config.ts
